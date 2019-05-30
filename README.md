@@ -1,6 +1,9 @@
 # NotesApp
 Nodejs JSON Notes App
 
+My first Node.js app
+All of this project runs in the console.
 
-to install, run 'npm install' to install all npm packages
-then 'node app.js --help' will print all actions with the project.
+To install, run 'npm install' to install all npm packages
+Then 'node app.js --help' will print all actions with the project.
+
